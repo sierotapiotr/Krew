@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="com.example.ignacy.myapplication.Stats"
+    tools:showIn="@layout/activity_stats">
+
+    <RelativeLayout
+        android:layout_width="374dp"
+        android:layout_height="476dp"
+        tools:layout_editor_absoluteX="5dp"
+        tools:layout_editor_absoluteY="16dp">
+
+        <TextView
+            android:id="@+id/textViewCount"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:textSize="20sp"
+
+            android:text="@string/stats1"
+            tools:layout_editor_absoluteX="16dp"
+            tools:layout_editor_absoluteY="16dp" />
+
+        <TextView
+            android:id="@+id/textViewLitres"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+
+            android:layout_alignEnd="@+id/textViewCount"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_alignRight="@+id/textViewCount"
+            android:layout_below="@+id/textViewCount"
+            android:layout_marginTop="30dp"
+            android:text="@string/statsXml4"
+            android:textSize="20sp" />
+
+        <TextView
+            android:id="@+id/textViewDays"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_below="@+id/textViewLitres"
+            android:layout_marginTop="31dp"
+            android:textSize="20sp"
+            android:text="@string/statsXml3"
+            />
+
+        <TextView
+            android:id="@+id/textViewHonor"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_below="@+id/textViewDays"
+            android:layout_marginTop="73dp"
+            android:textSize="20sp"
+            android:text="@string/statsXml2"
+            />
+
+        <TextView
+            android:id="@+id/textViewHonorPlus"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_below="@+id/textViewHonor"
+            android:layout_marginTop="75dp"
+            android:textSize="20sp"
+            android:text="@string/statsXml1"
+            />
+
+
+
+
+
+    </RelativeLayout>
+
+</android.support.constraint.ConstraintLayout>
+

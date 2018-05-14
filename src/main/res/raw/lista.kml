@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Regionalne Centra Krwiodawstwa i Krwiolecznictwa</name>
+    <NetworkLink>
+      <name>Punkty poboru krwi</name>
+      <Link>
+        <href><![CDATA[http://www.google.com/maps/d/kml?mid=1EsfRYRTl0h4YANfmb0MGKA0eKvs&lid=zRE8hyxh-ifQ.kGbaVr2TirNo]]></href>
+      </Link>
+    </NetworkLink>
+  </Document>
+</kml>

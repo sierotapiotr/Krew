@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.ignacy.myapplication.AddActivity">
+
+    <RelativeLayout
+        android:layout_width="374dp"
+        android:layout_height="476dp"
+        tools:layout_editor_absoluteX="5dp"
+        tools:layout_editor_absoluteY="17dp">
+
+
+        <EditText
+            android:id="@+id/editTextLitres"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_below="@+id/textViewLitres"
+            android:ems="10"
+            android:inputType="numberDecimal" />
+
+        <EditText
+            android:id="@+id/editTextDay"
+            android:layout_width="60dp"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_below="@+id/textViewDate"
+            android:ems="10"
+            android:inputType="date" />
+
+        <EditText
+            android:id="@+id/editTextMonth"
+            android:layout_width="60dp"
+            android:layout_height="wrap_content"
+
+            android:layout_above="@+id/buttonAdd"
+            android:layout_toEndOf="@+id/editTextDay"
+            android:layout_toRightOf="@+id/editTextDay"
+            android:ems="10"
+            android:inputType="date" />
+
+        <EditText
+            android:id="@+id/editTextYear"
+            android:layout_width="120dp"
+            android:layout_height="wrap_content"
+
+            android:layout_above="@+id/buttonAdd"
+            android:layout_centerHorizontal="true"
+            android:ems="10"
+            android:inputType="date" />
+
+        <Button
+            android:id="@+id/buttonAdd"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_below="@+id/editTextDay"
+            android:text="Dodaj" />
+
+        <TextView
+            android:id="@+id/textViewLitres"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:text="@string/addXml2" />
+
+        <TextView
+            android:id="@+id/textViewDate"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_below="@+id/editTextLitres"
+            android:text="@string/addXml1" />
+
+
+    </RelativeLayout>
+
+</android.support.constraint.ConstraintLayout>

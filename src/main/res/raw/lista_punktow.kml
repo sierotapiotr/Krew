@@ -1,0 +1,2181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Punkty poboru krwi</name>
+    <description>Adresy Regionalnych Centrów Krwiodawstwa i Krwiolecznictwa (RCKiK), ich oddziałów terenowych (OT) oraz stałych punktów poboru krwi. Dodatkowo zaznaczono resortowe centra krwiodawstwa, czyli CKiK MSW oraz WCKiK. Na mapie znajdują się również Narodowe Centrum Krwi oraz Instytut Hematologii i Transfuzjologii.</description>
+    <Style id="icon-503-DB4436-normal">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-503-DB4436-highlight">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-503-DB4436">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-503-DB4436-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-503-DB4436-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Regionalne Centra Krwiodawstwa i Krwiolecznictwa</name>
+      <Placemark>
+        <name>Regionalne Centrum Krwiodawstwa i Krwiolecznictwa Szczecin</name>
+        <description><![CDATA[RCKiK Szczecin<br>70-482 Szczecin<br>al. Wojska Polskiego 80/82<br>poniedziałek - piątek<br>od 7:15 do 13:15,<br>sobota od 7:15 do 12:00.<br>w wyznaczone piątki 7:15 -16:00<br>Telefon 91 4 22 34 35<br>http://www.krwiodawstwo.szczecin.pl/]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            14.536757,53.436537,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RCKiK Szczecin OT Białogard</name>
+        <description><![CDATA[Białogard<br>Nowowiejskiego 7,<br>78-200 Białogard<br>tel. 94 312-82-57<br>godziny rejestracji - 8:15 - 10:00<br>http://www.krwiodawstwo.szczecin.pl/]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            16.006731,54.006539,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RCKiK Szczecin OT Drawsko Pomorskie</name>
+        <description><![CDATA[Drawsko Pomorskie<br>Bolesława Chrobrego 4<br>78-500 Drawsko Pomorskie<br>tel. 94 363-03-25<br>godziny rejestracji - 8:00 - 11:00<br>http://www.krwiodawstwo.szczecin.pl/]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            15.813446,53.525488,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RCKiK Szczecin OT Gryfice</name>
+        <description><![CDATA[Gryfice<br>Niechorska 27<br>72-300 Gryfice<br>tel./fax 91 38-47-009<br>godziny rejestracji - 7:15 - 11:00<br>http://www.krwiodawstwo.szczecin.pl/]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            15.174608,53.923839,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RCKiK Szczecin OT Kołobrzeg</name>
+        <description><![CDATA[Kołobrzeg<br>Łopuskiego 31<br>78-100 Kołobrzeg<br>tel./fax 94 35-46-627<br>godziny rejestracji - 8:00 - 11:00<br>http://www.krwiodawstwo.szczecin.pl/]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            15.568013,54.174669,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RCKiK Szczecin OT Koszalin</name>
+        <description><![CDATA[Koszalin<br>Chałubińskiego 7<br>75-581 Koszalin<br>tel./fax 94 34-18-603<br>godziny rejestracji - 7:45 - 11:00<br>http://hdk.man.koszalin.pl<br>http://www.krwiodawstwo.szczecin.pl/]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            16.213849,54.198075,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RCKiK Szczecin OT Świnoujście</name>
+        <description><![CDATA[Świnoujście<br>Mieszka I-go 4<br>72-600 Świnoujście<br>tel/fax. 91 321-24-46<br>godziny rejestracji - 8:00 - 11:00<br>http://www.krwiodawstwo.szczecin.pl/]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            14.258623,53.910052,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RCKiK Szczecin OT Szczecinek</name>
+        <description><![CDATA[Szczecinek<br>Tadeusza Kościuszki 38<br>78-400 Szczecinek<br>tel. 94 373 - 74 - 78<br>godziny rejestracji - 7:00 - 10:00<br>http://www.krwiodawstwo.szczecin.pl]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            16.678898,53.712939,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RCKiK Szczecin Ekipowy Pobór Krwi Barlinek</name>
+        <description><![CDATA[Barlinek<br>EKIPOWY POBÓR KRWI<br>Szpitalna 8<br>74-320 Barlinek<br>tel. 95 746-30-33<br>godziny rejestracji - 7:30 - 10:00<br>http://www.krwiodawstwo.szczecin.pl/]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            15.223811,52.997352,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RCKiK Szczecin Ekipowy Pobór Krwi Gryfino</name>
+        <description><![CDATA[Gryfino<br>EKIPOWY POBÓR KRWI<br>Dni poboru krwi: Poniedziałki i Czwartki<br>Boleława Chrobrego 52<br>74-100 Gryfino<br>tel. 91 416-40-89<br>godziny rejestracji - 7:30 - 10:30<br>http://www.krwiodawstwo.szczecin.pl/]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            14.489465,53.256356,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RCKiK Szczecin Ekipowy Pobór Krwi Stargard Szczeciński</name>
+        <description><![CDATA[Stargard Szczeciński<br>EKIPOWY POBÓR KRWI<br>Pl. Wolności 1 (Poniedziałki i Piątki)<br>73-110 Stargard Szczeciński<br>tel./fax 91 57-86-929<br>godziny rejestracji - 8:30 - 12:00<br>http://www.krwiodawstwo.szczecin.pl/]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            15.037923,53.344672,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Regionalne Centrum Krwiodawstwa i Krwiolecznictwa Słupsk</name>
+        <description><![CDATA[76-200 Słupsk, ul. Szarych Szeregów 21<br>tel. 59 842 20 21 do 23<br>rejestracja dawców:<br>poniedziałek - piątek od godziny 7:00 do 17:00<br>http://www.krwiodawstwo.slupsk.pl/]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            17.032623,54.469534,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RCKiK Słupsk OT Chojnice</name>
+        <description><![CDATA[89-600 Chojnice ul. Leśna 10<br>tel. 52 39-56-795<br>rejestracja dawców:<br>od poniedziałku do piątku od godziny 7:00 do godziny 10:00<br>http://www.krwiodawstwo.slupsk.pl/]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            17.548192,53.712317,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RCKiK Słupsk OT Lębork</name>
+        <description><![CDATA[84-300 Lębork ul. Węgrzynowicza 13<br>tel. 59 863-52-79<br>rejestracja dawców:<br>od poniedziałku do piątku od godziny 7:30 do godziny 10:30 http://www.krwiodawstwo.slupsk.pl]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            17.751675,54.539397,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Regionalne Centrum Krwiodawstwa i Krwiolecznictwa Gdańsk</name>
+        <description><![CDATA[80-210 Gdańsk<br>ul. Józefa Hoene-Wrońskiego 4<br>tel. 58 520 40 10<br>mail: info@krew.gda.pl<br>Rejestracja dawców od poniedziałku do piątku w godzinach od 7,15 do 16,30<br>w  soboty w godzinach od 7,15 do 12,15  <br>http://www.krew.gda.pl/]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            18.628993,54.365696,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RCKiK Gdańsk OT Gdynia</name>
+        <description><![CDATA[81-519 Gdynia Redłowo<br>ul. Powstania Styczniowego 9b            <br>tel. 58 622 02 69<br>Rejestracja dawców od poniedziałku do piątku w godzinach od 7.15 do 12.30]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            18.548698,54.487915,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RCKiK Gdańsk OT Kartuzy</name>
+        <description><![CDATA[83-300 Kartuzy<br>ul. Floriana Ceynowy 7                        <br>tel. 58 681 11 44<br>Rejestracja dawców od poniedziałku do piątku w godzinach od 7.00 do 11.30]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            18.197924,54.336673,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RCKiK Gdańsk OT Kościerzyna</name>
+        <description><![CDATA[83-400 Kościerzyna<br>ul. Alojzego Piechowskiego 36<br>tel. 58 686 02 30<br>Rejestracja dawców od poniedziałku do piątku w godzinach od 7.15 do 12.45]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            17.950029,54.121168,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RCKiK Gdańsk OT Kwidzyn</name>
+        <description><![CDATA[82-500 Kwidzyn<br>ul. Józefa Hallera 31<br>tel. 55 279 41 35<br>Rejestracja dawców od poniedziałku do piątku w godzinach od 7.00 do 11.00]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            18.920689,53.726868,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RCKiK Gdańsk OT Malbork</name>
+        <description><![CDATA[82-200 Malbork<br>ul. Armii Krajowej 105/106<br>tel. 55 646 02 92<br>Rejestracja dawców w poniedziałki, wtorki i czwartki w godzinach od 7.00 do 12.00]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            19.022355,54.031141,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RCKiK Gdańsk OT Starogard Gdański</name>
+        <description><![CDATA[83-200 Starogard Gdański<br>ul. dr Józefa Balewskiego 1<br>tel. 58 562 50 05<br>Rejestracja dawców od poniedziałku do piątku w godzinach od 7.00 do 11.30]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            18.508401,53.96727,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RCKiK Gdańsk OT Tczew</name>
+        <description><![CDATA[83-110 Tczew<br>ul. Piaskowa 3<br>tel. 58 562 33 41<br>Rejestracja dawców w poniedziałki, wtorki i piątki w godzinach od 7.15 do 9.30,<br>w środy 7.15 do 11.30, w czwartki w godzinach od 10.00 do 12.00]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            18.782501,54.087036,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RCKiK Gdańsk OT Wejherowo</name>
+        <description><![CDATA[84-200 Wejherowo<br>Weteranów 10<br>tel. 58 677 06 08<br>Rejestracja dawców od poniedziałku do piątku w godzinach od 7.00 do 11.30]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            18.2569947,54.6052885,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Regionalne Centrum Krwiodawstwa i Krwiolecznictwa Olsztyn</name>
+        <description><![CDATA[Malborska 2, 10-247 Olsztyn<br>od poniedziałku do piątku 7.00 – 15.00<br>rejestracja dawców do godziny 13.30<br>sobota - rejestracja dawców 7.00 - 13.00 http://www.rckikol.pl/]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            20.490146,53.793452,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RCKiK Olsztyn OT Bartoszyce</name>
+        <description><![CDATA[ul. Wyszyńskiego 11<br>11-200 Bartoszyce<br>Tel. (89) 764 95 58<br>Fax. (89) 764 95 58<br>od poniedziałku do piątku 7.00 – 14.35<br>rejestracja dawców 7.00 - 11.30]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            20.792398,54.258481,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RCKiK Olsztyn OT Działdowo</name>
+        <description><![CDATA[ul. Leśna 1<br>13-200 Działdowo<br>Tel. (23) 697 53 85<br>Fax. (23) 697 53 86<br>poniedziałek, środa i piątek 7.00 – 14.35<br>środa - dzień akcji wyjazdowych (oddział terenowy może być zamknięty)<br>rejestracja dawców 7.30 - 11.30]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            20.192549,53.24172,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RCKiK Olsztyn OT Elbląg</name>
+        <description><![CDATA[ul. Bema 80<br>82-300 Elbląg<br>Tel. (55) 235 22 13<br>Fax. (55) 237 40 77<br>od poniedziałku do piątku 7.00 – 14.35<br>rejestracja dawców 7.00 - 12.00]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            19.433055,54.158162,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RCKiK Olsztyn OT Giżycko</name>
+        <description><![CDATA[ul. Bohaterów Westerplatte 4<br>11-500 Giżycko<br>Tel. (87) 428 18 96<br>Fax. (87) 429 94 22<br>od poniedziałku do piątku 7.00 – 14.35<br>rejestracja dawców 7.00 - 10.00]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            21.780052,54.035237,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RCKiK Olsztyn OT Iława</name>
+        <description><![CDATA[ul. Władysława Andersa 3<br>11-200 Iława<br>Tel. (89) 644 85 96<br>Fax. (89) 644 85 95<br>od poniedziałku do piątku 7.00 – 14.35<br>rejestracja dawców 7.00 - 11.00]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            19.566329,53.585907,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RCKiK Olsztyn OT Nidzica</name>
+        <description><![CDATA[ul. Traugutta 13<br>13-100 Nidzica<br>Tel. / Fax. (89) 625 46 83<br>wtorek i piątek 7.00 – 14.35<br>środa - dzień akcji wyjazdowych (oddział terenowy jest zamknięty)<br>rejestracja dawców 7.00 - 11.30]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            20.421696,53.361283,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RCKiK Olsztyn OT Pasłęk</name>
+        <description><![CDATA[ul. Plac Grunwaldzki 8<br>14-400 Pasłęk<br>Tel. / Fax. (55) 248 55 38<br>od poniedziałku do piątku 7.00 – 14.35<br>rejestracja dawców 7.00 - 10.00]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            19.664733,54.058468,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Regionalne Centrum Krwiodawstwa i Krwiolecznictwa Białystok</name>
+        <description><![CDATA[Białystok 15-950, ul. M. Skłodowskiej - Curie 23<br>Telefon 857456301 - Rejestracja Dawców, 857447002 - Sekretariat<br>Fax 857447133]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            23.162591,53.125633,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RCKiK Białystok OT Bielsk Podlaski</name>
+        <description><![CDATA[ul. Kleszczelowska 1c, 17-100 Bielsk Podlaski<br>Telefon 85 730-98-24<br>Fax 85 730-98-24 ]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            23.202631,52.75936,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RCKiK Białystok OT Hajnówka</name>
+        <description><![CDATA[Budynek SP ZOZ - szpital, ul.Doc Adama Dowgirda, 17-200 Hajnówka<br>Telefon 85 684-30-05<br>Fax 85 684-30-05 ]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            23.610392,52.746528,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RCKiK Białystok OT Łomża</name>
+        <description><![CDATA[Budynek Szpitala Wojewódzkiego, Al. Piłsudskiego 11, 18-400 Łomża<br>Telefon 86 219-81-32<br>Fax 86 219-81-32 ]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            22.08533,53.160333,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RCKiK Białystok OT Suwałki</name>
+        <description><![CDATA[Budynek SP Szpitala Wojewódzkiego, ul. Szpitalna 60, 16-400 Suwałki<br>Telefon 87 567-21-12<br>Fax 87 567-21-12]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            22.925248,54.119471,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Regionalne Centrum Krwiodawstwa i Krwiolecznictwa Zielona Góra</name>
+        <description><![CDATA[65-046 Zielona Góra, ul. Zyty 21                Rejestracja Krwiodawców<br>poniedziałek od 7.00 do 16.30                                     od wtorku do piątku od 7.00 do 14.00<br>- rejestracja krwiodawców<br>68 329 83 89<br>- gabinet lekarski<br>68 329 83 71 lub 68 329 83 90]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            15.518939,51.940429,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RCKiK Zielona Góra OT Gorzów Wielkopolski</name>
+        <description><![CDATA[66-400 Gorzów Wielkopolski, ul. Dekerta 1<br>tel. 95 722 92 49<br>Czynny:<br>poniedziałek - piątek od 7.00 do 14.35  <br>Rejestracja dawców od 7.00 do 12.00]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            15.237265,52.761762,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RCKiK Zielona Góra OT Międzyrzecz</name>
+        <description><![CDATA[66-300 Międzyrzecz, ul. Konstytucji 3 Maja 24 <br>tel. 95 742 00 32<br>Czynny:<br>wtorek, środa, piątek od 8.00 do 13.55<br>Rejestracja dawców od 8.00 do 10.30]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            15.581532,52.441794,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RCKiK Zielona Góra OT Sulęcin</name>
+        <description><![CDATA[69-200 Sulęcin, ul. Dudka 15 <br>tel. 95 755 95 57<br>Czynny:<br>poniedziałek, czwartek od 8.00 do 13.55<br>Rejestracja dawców od 8.00 do 10.30]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            15.120599,52.437804,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RCKiK Zielona Góra OT Żagań</name>
+        <description><![CDATA[68-100 Żagań ul. Szprotawska 45a<br>tel. 68 367 10 43<br>Czynny:<br>poniedziałek - piątek od 8.00 do 13.40<br>Rejestracja dawców od 8.00 do 10.30]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            15.330734,51.612407,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RCKiK Zielona Góra OT Żary</name>
+        <description><![CDATA[68-200 Żary ul. Skarbowa 2<br>tel. 68 363 66 05<br>Czynny:<br>poniedziałek - piątek od 8.00 do 13.40  <br>Rejestracja dawców od 8.00 do 12.00]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            15.152485,51.640221,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Regionalne Centrum Krwiodawstwa i Krwiolecznictwa Poznań Poznań</name>
+        <description><![CDATA[Ul. Marcelińska 44<br>60-354 Poznań<br>Centrala tel.:  618674031, 618863300, 618863311 RCKiK w Poznaniu jest czynne w następujących godzinach:<br>W pn, wt, pt : 7.00 - 15.00                                        w środy i czwartki : 7.00-18.00<br>w soboty: 7.00 - 13.00                                                 dawców płytkowych pon-czw 7:00-14:00 pt 7:00-13:30]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            16.883111,52.404278,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RCKiK Poznań OT Poznań</name>
+        <description><![CDATA[60-479 Poznań<br>ul. Juraszów 7/19<br>czynny od poniedziałku do piątku<br>rejestracja 8.00-10.00<br>tel. 61 82 12 417, 61 82 33 351]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            16.906672,52.439165,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RCKiK Poznań OT Września</name>
+        <description><![CDATA[62-300 Września<br>ul. Słowackiego 2<br>czynny od poniedziałku do piątku <br>rejestracja 7.30-10.00<br>tel. 61 43 62 003]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            17.57304,52.325111,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RCKiK Poznań OT Piła</name>
+        <description><![CDATA[64-920 Piła<br>ul. Rydygiera 1<br>czynny: poniedziałek, wtorek,<br>czwartek, piątek<br>rejestracja 7.30-10.30<br>środa rejestracja 12.00-16.00<br>tel. 67 21 06 495, 67 21 06 492]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            16.716514,53.121114,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RCKiK Poznań OT Wolsztyn</name>
+        <description><![CDATA[64-200 Wolsztyn<br>ul. Wschowska 3;<br>czynny poniedziałek, środa, czwartek, piątek<br>rejestracja 8.00-10.00<br>tel. 68 34 77 352<br>68 34 77 300<br>w.352]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            16.117887,52.11652,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RCKiK Poznań OT Czarnków</name>
+        <description><![CDATA[64-700 Czarnków <br>ul. Kościuszki 91<br>czynny poniedziałek, wtorek, środa, czwartek, piątek<br>rejestracja 7.00-11.00<br>tel. 067 35 28 135<br>fax. 067 35 28 155]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            16.555388,52.897551,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RCKiK Poznan OT Wągrowiec</name>
+        <description><![CDATA[62-100 Wągrowiec<br>ul. Kościuszki 74;<br>czynny poniedziałek,<br>wtorek, czwartek<br>rejestracja 7.00-9.00<br>tel. 67 26 81 555<br>67 26 22 301<br>w.355]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            17.204998,52.817833,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RCKiK Poznań OT Szamotuły</name>
+        <description><![CDATA[64-500 Szamotuły<br>ul. Sukiennicza 13;<br>czynny od poniedziałku<br>do piątku<br>rejestracja 7.30-10.00<br>tel. 61 29 26 509<br>61 29 20 491]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            16.581159,52.610892,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RCKiK Poznań OT Gniezno</name>
+        <description><![CDATA[62-200 Gniezno<br>ul. Św. Jana 9;<br>od poniedziałku do piątku <br>rejestracja 7.30-11.00<br>tel. 61 42 64 461<br>wew. 377]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            17.596879,52.538335,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RCKiK Poznań OT Nowy Tomyśl</name>
+        <description><![CDATA[64-300 Nowy Tomyśl<br>ul. Sienkiewicza 7;<br>czynny poniedziałek, środa, czwartek, piątek<br>rejestracja 7.30-10.00<br>tel.61 44 27 354<br>61 44 27 300<br>wew.354]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            16.142972,52.314566,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RCKiK Poznań OT Śrem</name>
+        <description><![CDATA[63-100 Śrem<br>ul. Chełmońskiego 1;<br>czynny poniedziałek, wtorek, czwartek, piątek<br>rejestracja 7.30-10.00<br>tel. 61 28 15 617]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            17.006471,52.089474,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RCKiK Poznań OT Chodzież</name>
+        <description><![CDATA[64-800 Chodzież<br>ul. Żeromskiego 29<br>czynny poniedziałek, czwartek, piątek<br>rejestracja 7.00-9.00<br>tel.067 28 20 570 w.723]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            16.915598,52.988092,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RCKiK Poznan OT Leszno</name>
+        <description><![CDATA[64-100 Leszno<br>ul. Kiepury 45;<br>czynny od poniedziałku<br>do piątku<br>rejestracja 7.30-12.00<br>tel.65 52 53 116<br>65 52 53 111<br>fax.65 52 94 070]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            16.607101,51.838416,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RCKiK Poznań OT Kościan</name>
+        <description><![CDATA[64-000 Kościan<br>ul. Szpitalna 7; <br>czynny poniedziałek, wtorek, piątek<br>rejestracja 8.00-9.00<br>tel. 065 51 19 016]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            16.647334,52.084675,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Regionalne Centrum Krwiodawstwa i Krwiolecznictwa Kalisz</name>
+        <description><![CDATA[ul. Kaszubska 9<br>62-800 Kalisz<br>telefony:<br>Centrala: 62 76 79 400<br>Sekretariat/Fax: 62 76 73 889                                Krew można oddać od poniedziałku do piątku w godzinach pon. od 7:00 – 16:00 wt.-pt 7:00 - 14:00]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            18.103473,51.769978,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RCKiK Kalisz OT Konin</name>
+        <description><![CDATA[ul. Wyszyńskiego 1<br>62-510 Konin<br>Tel: 63 243 86 28<br>Krew można oddać poniedziałek, wtorek, czwartek, piątek w godzinach od 7:30 – 12:00]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            18.264019,52.226656,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RCKiK Kalisz OT Ostrów Wielkopolski</name>
+        <description><![CDATA[ul. Limanowskiego 20-22<br>63-400 Ostrów Wlkp<br>Tel: 62 595 13 31<br>Krew można oddać od poniedziałku do piątku w godzinach od 7:00 – 12:00]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            17.824674,51.654494,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RCKiK Kalisz OT Ostrzeszów</name>
+        <description><![CDATA[ul. Zamkowa 17<br>63-500 Ostrzeszów<br>Tel: 62 732 01 35, Fax 62 732 01 36<br>Krew można oddać poniedziałek, wtorek, środa, piątekgodzinach od 7:30 – 12:00, w czwartek w Ośrodku Sportu i Rekreacji w Kępnie od 8:00 do 11:00]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            17.929838,51.426788,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RCKiK Kalisz OT Krotoszyn</name>
+        <description><![CDATA[ul. Bolewskiego 8<br>63-700 Krotoszyn<br>Tel: 62 588 03 60<br>Krew można oddać od poniedziałku do piątku w godzinach od 7:30 – 12:00]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            17.438715,51.68872,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Regionalne Centrum Krwiodawstwa i Krwiolecznictwa Bydgoszcz</name>
+        <description><![CDATA[RCKiK Bydgoszcz<br>Księdza Ryszarda Markwarta 8<br>85-001 Bydgoszcz tel. 52 322 18 71<br>• pn-śr 7:30 - 15:00<br>• czw 7:30 - 17:30<br>• pt 7:30 - 15:00<br>• sob 8:00 - 12:00]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            18.012291,53.126089,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RCKiK Bydgoszcz OT Włocławek</name>
+        <description><![CDATA[Pogotowie Ratunkowe<br>ul. Lunewil 15<br>e-mail: wloclawek@rckik-bydgoszcz.com.pl<br> (054) 234-69-59<br>• pn.,wt.,czw.,pt.- w godz. 7.30 - 11.30<br>• śr.- w godz. 7.30 - 17.00]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            19.029886,52.658779,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RCKiK Bydgoszcz OT Inowrocław</name>
+        <description><![CDATA[Samodzielny Publiczny ZOZ<br>ul.Poznańska 97<br>e-mail: inowroclaw@rckik-bydgoszcz.com.pl﻿<br>tel: ﻿ (052) 354-53-28﻿<br>• pn. 7.00 - 17.00<br>• wt. ,czw. , pt. - w godz. 7.30-10.30]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            18.262839,52.781797,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RCKiK Bydgoszcz OT Toruń</name>
+        <description><![CDATA[Wojewódzki Szpital Zespolony<br>ul. Św. Józefa 53-59<br>e-mail: torun@rckik-bydgoszcz.com.pl﻿<br>tel: ﻿ (056) 610-11-82﻿<br>• pn. , wt. ,czw. , pt. - w godz. 7.00-11.00<br>• śr. - w godz. 7.30 - 17.30]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            18.58541,53.028402,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RCKiK Bydgoszcz OT Brodnica</name>
+        <description><![CDATA[ul. 18 Stycznia 36B<br>e-mail: brodnica@rckik-bydgoszcz.com.pl﻿<br>tel: ﻿ (056) 493-19-83﻿<br>• śr. ,pt. - w godz. 7.00-11.00<br>• pn. - w godz. 7.00 - 15.45]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            19.403621,53.246172,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RCKiK Bydgoszcz OT Grudziądz</name>
+        <description><![CDATA[ul. Włodka 16-18    I piętro<br>e-mail: grudziadz@rckik-bydgoszcz.com.pl﻿<br>tel: ﻿ (056) 642-34-46﻿<br>• śr. , pt. - w godz . 7.30-11.30<br>• poniedziałek- w godz. 7.30-17.00]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            18.751007,53.48386,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RCKiK Bydgoszcz Ekipowy Pobór Krwi Chełmno</name>
+        <description><![CDATA[Zakład Opieki Zdrowotnej ul. Plac Rydygiera 1<br>• wt. - w godz . 7.30-11.00]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            18.420768,53.344259,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RCKiK Bydgoszcz Ekipowy Pobór Krwi Lipno</name>
+        <description><![CDATA[ambulans Plac Dekerta<br>• 2  wtorek  i  4  piątek miesiąca w godz. 10.00-16.00]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            19.180863,52.846016,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RCKiK Bydgoszcz Ekipowy Pobór Krwi Rypin</name>
+        <description><![CDATA[na terenie Samodzielnego Publ. ZOZ ul. 3 Maja 2<br>• wt. w godz. 7.00-11.00]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            19.415674,53.067014,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RCKiK Bydgoszcz Ekipowy Pobór Krwi Golub-Dobrzyń</name>
+        <description><![CDATA[parking przy Urzędzie Miasta, Plac Tysiąclecia 25<br>każdy drugi i czwarty czwartek miesiąca w godz. 12-16.30]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            19.052246,53.108737,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RCKiK Bydgoszcz Ekipowy Pobór Krwi Świecie</name>
+        <description><![CDATA[budynek byłego Starostwa Powiatowego ul. Wojska Polskiego 173<br>• każdy poniedziałek- w godz. 8.00 - 12.00]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            18.45525,53.411169,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RCKiK Bydgoszcz Ekipowy Pobór Krwi Więcbork</name>
+        <description><![CDATA[w Ambulansie na Placu Jana Pawa II<br>• 1 poniedziałek m-ca- w godz. 10.30 - 16.00]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            17.489076,53.351038,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RCKiK Bydgoszcz Ekipowy Pobór Krwi Nakło</name>
+        <description><![CDATA[na terenie Straży Pożarnej ul. Dąbrowskiego<br>• 2 poniedziałek m-ca - w godz. 8.00 - 13.00]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            17.594068,53.13731,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RCKiK Bydgoszcz Ekipowy Pobór Krwi Radziejów</name>
+        <description><![CDATA[parking przy Starostwie Powiatowym ul.Kościuszki 17<br>4 poniedziałek miesiąca 10-16.3﻿﻿0]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            18.527563,52.622682,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Regionalne Centrum Krwiodawstwa i Krwiolecznictwa Warszawa</name>
+        <description><![CDATA[ul. Saska 63/75, 03-948 Warszawa<br>Sekretariat:<br>pon. - pt. w godz. 7:00-17:00                              sobota w godz. 7:00-14:00 <br>rejestracja dawców płytkowych do 16:00                tel: 22 514 60 00<br>tel/fax: 22 514 60 60 ]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            21.06019,52.232623,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RCKiK Warszawa OT Ciechanów</name>
+        <description><![CDATA[06-400 Ciechanów<br>ul. Powstańców Wielkopolskich 2<br>Oddział Terenowy nr 56 RCKiK w Warszawie<br>Godziny Rejestracji: 07.00 - 13.00<br>Kierownik: lek. Danuta Matuszewska-Koziara<br>tel.: 23 673-03-26]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            20.632668,52.883492,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RCKiK Warszawa OT Garwolin</name>
+        <description><![CDATA[08-400 Garwolin<br>ul. Lubelska 50<br>Oddział Terenowy nr 49 RCKiK w Warszawie<br>Godziny Rejestracji: 07.00 - 13.00<br><br>tel.: 25 682-46-17]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            21.637509,51.871192,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RCKiK Warszawa OT Mława</name>
+        <description><![CDATA[06-500 Mława<br>ul. A. Dobrskiej 1<br>Oddział Terenowy nr 57 RCKiK w Warszawie<br>Godziny Rejestracji: 07.00 - 13.00<br>Kierownik: lek. Diana Wtulich<br>tel.: 23 654-32-35 wew. 268]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            20.372429,53.123316,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RCKiK Warszawa OT Nowy Dwór Paderewskiego</name>
+        <description><![CDATA[05-100 Nowy Dwór Mazowiecki<br>ul. Paderewskiego 7<br>Oddział Terenowy nr 30 RCKiK w Warszawie<br>Godziny Rejestracji: 07.00 - 13.00<br>Kierownik: mgr Renata Pałka<br>tel.: 22 785-05-73]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            20.718777,52.42777,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RCKiK Warszawa OT Płock</name>
+        <description><![CDATA[09-400 Płock<br>ul. Medyczna 19<br>Oddział Terenowy nr 36 RCKiK w Warszawie<br>Godziny Rejestracji: 07.00 - 13.00<br>p.o. Kierownika: Katarzyna Błaszczyk<br>tel.: 24 364-62-51]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            19.653039,52.557203,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RCKiK Warszawa OT Siedlce</name>
+        <description><![CDATA[08-110 Siedlce<br>ul. Formińskiego 14<br>Oddział Terenowy nr 46 RCKiK w Warszawie<br>Godziny Rejestracji: 07.00 - 13.00<br>Kierownik: lek. Janina Wójcikowska<br>tel.: 25 632-74-61]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            22.276669,52.162403,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RCKiK Warszawa OT Ostrołęka</name>
+        <description><![CDATA[07-410 Ostrołęka<br>ul. Jana Pawła 120A<br>Oddział Terenowy nr 41  RCKiK w Warszawie<br>Godziny Rejestracji: 07.00 - 13.00<br>Kierownik: lek. Elżbieta Jakowicka<br>tel.: 29 765-16-64]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            21.589551,53.062895,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RCKiK Warszawa OT Warszawa</name>
+        <description><![CDATA[01-809 Warszawa<br>Szpital Bielański<br>ul. Cegłowska 80<br>Oddział Terenowy nr 16 RCKiK w Warszawie<br>Godziny Rejestracji: 07.00 - 13.00, wtorki: 11.00 - 16.00<br>Kierownik: lek. Ewa Sulich<br>tel.: 22 569-02-00]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            20.951486,52.286695,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RCKiK warszawa OT Warszawa</name>
+        <description><![CDATA[02-005 Warszawa<br>ul. Nowogrodzka 59<br>Oddział Terenowy nr 12 RCKiK w Warszawie<br>Godziny Rejestracji: 07.00 - 13.00<br>Kierownik: lek. Zbigniew Kotliński<br>tel.: 22 502-11-06]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            21.002061,52.226275,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RCKiK Warszawa OT Warszawa</name>
+        <description><![CDATA[04-736 Warszawa<br>Centrum Zdrowia Dziecka<br>Al. Dzieci Polskich 20<br>Oddział Terenowy nr 27 RCKiK w Warszawie<br>Godziny Rejestracji: pon -pt 07.00 - 13.00<br>Kierownik: lek. Alicja Domysławska<br>tel.: 22 815-19-34]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            21.192369,52.206515,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RCKiK Warszawa Ekipowy Pobór Krwi Maków Mazowiecki</name>
+        <description><![CDATA[na Rynku vis a vis postoju TAXI w pierwszy poniedziałek miesiąca<br>Rejestracja Dawców w godz. 9.00 - 13.00]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            21.087098,52.861889,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RCKiK Warszawa Ekipowy Pobór Krwi Gostynin</name>
+        <description><![CDATA[Gostynin                                                                      Realizacja poboru krwi w Gostyninie ul. Rynek<br>w ostatni poniedziałek miesiąca<br>Rejestracja Dawców w godz. 9.00 - 13.00]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            19.460223,52.428345,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RCKiK Warszawa Ekipowy Pobór Krwi Węgrów</name>
+        <description><![CDATA[Węgrów 	<br>Przychodnia  Specjalistyczna<br>Węgrów ul. Przemysłowa 7<br>pierwszy poniedziałek: 9.00 - 12.00]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            22.013104,52.396593,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RCKiK Warszawa Ekipowy Pobór Krwi Ostrów Mazowiecki</name>
+        <description><![CDATA[Ostrów Mazowiecka<br>przy Starostwie Powiatowym,<br>ul. 3 Maja 68<br>drugi i czwarty poniedziałek 	9.00 - 13.00]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            21.891568,52.800634,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RCKiK Warszawa Ekipowy Pobór Krwi Płońsk</name>
+        <description><![CDATA[09-100 Płońsk<br>ul. Sienkiewicza 7<br>SPZZOZ<br>każdy poniedziałek i czwartek                          Godziny Rejestracji: 07.00 - 13.00]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            20.374682,52.629078,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RCKiK Warszawa Ekipowy Pobór Krwi Mińsk Mazowiecki
+</name>
+        <description>przy MDK ul. Warszawska 173                               ostatni poniedziałek miesiąca 9:00-13:00</description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            21.569525,52.180813,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RCKiK Warszawa Ekipowy Pobór Krwi Grodzisk Mazowiecki</name>
+        <description><![CDATA[Szpital Zachodni<br>Grodzisk Maz. ul. Daleka 11<br>każdy wtorek: 09.30 - 12.30]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            20.615888,52.095011,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RCKiK Warszawa Ekipowy Pobór Krwi Sierpc</name>
+        <description><![CDATA[09-200 Sierpc<br>ul. Słowackiego 32<br>SPZZOZ<br>we wtorki                                                               Godziny Rejestracji: 09.00 - 13.00]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            19.674625,52.852145,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RCKiK Warszawa Ekipowy Pobór Krwi Warszawa</name>
+        <description>Warszawa     przy Pałacu Kultury i Nauki - obok Stacji Metro Centrum     każda środa     11.00 - 16.00</description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            21.0100651,52.2308749,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RCKiK Warszawa Ekipowy Pobór Krwi Sochaczew</name>
+        <description><![CDATA[Sochaczew 	<br>obok Kościoła<br>przy Pl. Kościuszki<br>pierwsza i trzecia środa 9.00 - 13.00]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            20.238061,52.230086,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RCKiK Warszawa Ekipowy Pobór Krwi Piaseczno
+</name>
+        <description>Piaseczno ul. Jana Pawła II przy Krzyżu                trzecia środa miesiąca nieparzystego                    9:00-13:00</description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            21.0168806,52.0745473,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RCKiK Warszawa Ekipowy Pobór Krwi Góra Kalwaria
+</name>
+        <description>Góra Kalwaria ul. 3 Maja -Arkady Kubickiego        trzecia środa w miesiącu parzystym                     9:00-13:00</description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            21.2176681,51.981036,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RCKiK Warszawa Ekipowy Pobór Krwi Wyszków</name>
+        <description><![CDATA[Wyszków<br>przy Wyszkowskim Ośrodku Sportu i Rekreacji (przy Hali Sportowej)<br>Geodetów 45<br>pierwszy i trzeci czwartek: 9.00 - 13.00]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            21.431108,52.59889,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RCKiK Warszawa Ekipowy Pobór Krwi Przasnysz</name>
+        <description><![CDATA[Przasnysz<br>SPZOZ, ul. Sadowa 9<br>(w pomieszczeniach Szpitala)<br>każdy piątek: 9.00 - 13.00]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            20.895288,53.028142,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RCKiK Warszawa Ekipowy Pobór Krwi Pułtusk</name>
+        <description><![CDATA[Pułtusk 	<br>Przychodnia Zdrowia<br>Pułtusk, ul. 3-go Maja 5 <br>drugi  piątek 09.00 - 13.00]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            21.085939,52.704839,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RCKiK Warszawa Ekipowy Pobór Krwi Legionowo
+</name>
+        <description>Legionowo Ratusz                                                      druga sobota 9:30-13:30</description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            20.9308054,52.3950901,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RCKiK Warszawa Ekipowy Pobór Krwi Karczew
+</name>
+        <description>Karczew ul. Warszawska 28                                     trzecia sobota w miesiącu nieparzystym               10:00-14:00 </description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            21.2441359,52.07817,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RCKiK Warszawa Ekipowy Pobór Krwi Radzymin
+</name>
+        <description>Radzymin pl. Kościuszki - przy Kościele                ostatnia niedziela w miesiącu nieparzystym         9:00-14:00</description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            21.1830193,52.4173006,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RCKiK Warszawa Ekipowy Pobór Krwi Kobyłka
+</name>
+        <description>Kobyłka ul. Ks. Marmo - przy OSP                          trzecia niedziela w miesiącu nieparzystym         9:00-13:30 </description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            21.199084,52.338042,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Regionalne Centrum Krwiodawstwa i Krwiolecznictwa Radom</name>
+        <description><![CDATA[26-600 Radom<br>ul. Limanowskiego 42<br>tel./fax. sekretariat: (48) 36 26 276<br>centrala: (48) 362 11 27 do 29<br>Rejestracja krwiodawców:<br>poniedziałek, środa 7.00-14.00<br>wtorek  7.00 – 18.00<br>czwartek, piątek  7.00 – 13.30    http://www.rckik.radom.pl/]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            21.137438,51.397934,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RCKiK Warszawa Ekipowy Pobór Krwi Wolomin
+</name>
+        <description><![CDATA[Wołomin     Ośrodek Sportu i Rekreacji<br>ul. Korsaka 4<br>(na terenie parkingu)     pierwsza niedziela miesiąca     10.00 - 14.00]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            21.2309617,52.3414398,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RCKiK Warszawa Ekipowy Pobór Krwi Zielonka
+</name>
+        <description>Zielonka ul. Łukasińskiego 1/3                                druga niedziela w miesiącu parzystym                 10:00-14:00</description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            21.1568062,52.3099222,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RCKiK Radom OT Grójec</name>
+        <description><![CDATA[Grójec<br>ul. Piotra Skargi 10<br>tel. (48) 664 93 75<br>fax. (48) 664 21 81<br>rejestracja dawców: pn.-pt. 7.30-11.30]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            20.867414,51.867734,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RCKiK Radom OT Kozienice</name>
+        <description><![CDATA[Kozienice<br>ul. gen. Władysława Sikorskiego 10  <br>tel. (48) 614 81 95 <br>fax. (48) 614 81 39<br>rejestracja dawców: pon.-piątek 7.30-11.30]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            21.524856,51.591536,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Regionalne Centrum Krwiodawstwa i Krwiolecznictwa Lublin</name>
+        <description><![CDATA[20-078 Lublin <br>ul. I Armii Wojska Polskiego 8 <br>Rejestracja dawców<br>81-442-10-40  <br>81-532-62-75 w. 38<br>godziny rejestracji dawców<br>7.30-14.00 poniedziałek, środa, piątek<br>7.30-18.00 wtorek, czwartek<br>7.300-14.00 sobota (rejestracja na zabiegi aferezy o 1,5 godz krótsze)]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            22.555983,51.248821,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RCKiK Lublin OT Lublin</name>
+        <description><![CDATA[Lublin <br>Al. Kraśnicka 100, tel. 81-525-80-08 <br>Rejestracja dawców: poniedziałek - piątek 7:30-14:00]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            22.50412,51.239271,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RCKiK Lublin OT Kraśnik</name>
+        <description><![CDATA[Kraśnik <br>Al. Niepodległości 25, tel. 81-825-48-70<br>Rejestracja dawców: poniedziałek - czwartek 7:00-11:30, piątek 7:00 - 13:30]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            22.165582,50.962643,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RCKiK Lublin OT Lubartów</name>
+        <description><![CDATA[Lubartów   <br>ul. Cicha 14, tel. 81-855-20-41 w. 306 <br>Rejestracja dawców: poniedziałek - piątek 7:30-11:30]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            22.617309,51.456668,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RCKiK Lublin OT Puławy</name>
+        <description><![CDATA[Puławy <br>ul. Bema 1, tel. 81-450 23 00 (rejestracja dawców)<br>Rejestracja dawców: poniedziałek - czwartek 7:15-12:30, piątek 7:15 - 13:30]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            21.974716,51.421691,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RCKiK Lublin OT Biała Podlaska</name>
+        <description><![CDATA[Biała Podlaska <br>ul. Jana III Sobieskiego 8, tel. 731- 751-051<br>Rejestracja dawców: poniedziałek - czwartek 7:30-13:00, piątek 7:30-14:00]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            23.116522,52.048651,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RCKiK Lublin OT Chełm </name>
+        <description><![CDATA[Chełm <br>ul.Szpitalna 53, tel. 82-565-56-51<br>Rejestracja dawców: poniedziałek - czwartek 7:30-12:30, piątek 7:30 - 14:00]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            23.456519,51.149484,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RCKiK Lublin OT Włodawa</name>
+        <description><![CDATA[Włodawa <br>Al. J. Piłsudskiego 66, tel. 82-572-39-55, 82-572-58-29<br>Rejestracja dawców: poniedziałek - czwartek 7:15-12:15, piątek 7:15 - 13:30]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            23.554215,51.555128,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RCKiK Lublin OT Zamość</name>
+        <description><![CDATA[Zamość   <br>ul. Al. Jana Pawła II 10, tel. 84-677-33-33, 84-677-32-00,<br>84-677-32-05<br>Rejestracja dawców: poniedziałek - piątek 7:30-13:30]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            23.287818,50.712317,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RCKiK Lublin OT Tomasz Lubelski</name>
+        <description><![CDATA[Tomaszów Lubelski <br>ul. Lwowska 82, tel. 84-664-44-11, 84-664-39-15 <br>Rejestracja dawców: poniedziałek - piątek 7:00-12:00]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            23.417273,50.442051,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RCKiK Lublin OT Łuków</name>
+        <description><![CDATA[Łuków <br>ul. Andrzeja Rogalińskiego 3<br> tel. 25-798-22-37<br>Rejestracja dawców: poniedziałek - czwartek 7:00-12:00. piątek 7:00 - 13:30]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            22.3787,51.924764,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Regionalne Centrum Krwiodawstwa i Krwiolecznictwa Wałbrzych</name>
+        <description><![CDATA[ul. Bolesława Chrobrego 31<br>Wałbrzych 58-300 <br>Telefon: 74 664 63 19<br>Faks: 74 842 59 16<br>W RCKiK w Wałbrzychu krew można oddawać od poniedziałku do piątku w godzinach od 7:00 do 13:30,<br>oraz w pierwszą i trzecią sobotę miesiąca w godz. 800 – 1200.]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            16.275215,50.773949,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RCKiK Wałbrzych Ekipowy Pobór Krwi Bogatynia</name>
+        <description><![CDATA[Bogatynia<br>ul. Szpitalna 16<br>NZOZ<br>7:00 - 10:30<br>Terminy wg. kalendarza na stronie:<br>RCKiK Wałbrzych (http://www.rckik.walbrzych.pl/site/index.php/ekipy-wyjazdowe)]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            14.970438,50.907011,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RCKiK Wałbrzych Ekipowy Pobór Krwi Jelenia Góra</name>
+        <description><![CDATA[Jelenia Góra<br>ul. Ogińskiego 6<br>NZOZ<br>7:30 - 12:00<br>Terminy wg. kalendarza na stronie: RCKiK Wałbrzych (http://www.rckik.walbrzych.pl/site/index.php/ekipy-wyjazdowe)]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            15.75315,50.909839,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RCKiK Wałbrzych Ekipowy Pobór Krwi Kłodzko</name>
+        <description><![CDATA[Kłodzko<br>ul. Szpitalna 1<br>NZOZ<br>7:30 - 11:30<br>Terminy wg. kalendarza na stronie: RCKiK Wałbrzych (http://www.rckik.walbrzych.pl/site/index.php/ekipy-wyjazdowe)]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            16.659586,50.455578,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RCKiK Wałbrzych Ekipowy Pobór Krwi Lubań</name>
+        <description><![CDATA[Lubań, ul. Wojska Polskiego 2<br>Straż Graniczna<br>09:00 – 13:00<br>Terminy wg. kalendarza na stronie: RCKiK Wałbrzych (http://www.rckik.walbrzych.pl/site/index.php/ekipy-wyjazdowe)]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            15.289321,51.118327,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RCKiK Wałbrzych Ekipowy Pobór Krwi Bolesławiec</name>
+        <description><![CDATA[Bolesławiec<br>Plac Marszałka Józefa Piłsudskiego 1<br>Bolesławiecki Ośrodek Kultury<br>09:30 – 13:30<br>Terminy wg. kalendarza na stronie: RCKiK Wałbrzych (http://www.rckik.walbrzych.pl/site/index.php/ekipy-wyjazdowe)]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            15.569944,51.261807,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RCKiK Wałbrzych Ekipowy Pobór Krwi Zgorzelec</name>
+        <description><![CDATA[Zgorzelec<br>ul. Maratońska 2<br>Centrum Sportowo-Rekreacyjne<br>09:00 – 13:00<br>Terminy wg. kalendarza na stronie: RCKiK Wałbrzych (http://www.rckik.walbrzych.pl/site/index.php/ekipy-wyjazdowe)]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            15.009856,51.145769,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RCKiK Wałbrzych Ekipowy Pobór Krwi Lwówek Śląski</name>
+        <description><![CDATA[Lwówek Śląski<br>Al. Wojska Polskiego 25A<br>Urząd Miasta<br>09:00 – 13:00<br>Terminy wg. kalendarza na stronie: RCKiK Wałbrzych (http://www.rckik.walbrzych.pl/site/index.php/ekipy-wyjazdowe)]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            15.581049,51.109928,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RCKiK Wałbrzych Ekipowy Pobór Krwi Dzierżaniów</name>
+        <description><![CDATA[09:00 – 13:00<br>Dzierżoniów, ul. Poprzeczna 16 (mapa)<br>NZOZ „Pro Familia”<br>Terminy wg. kalendarza na stronie: RCKiK Wałbrzych (http://www.rckik.walbrzych.pl/site/index.php/ekipy-wyjazdowe)]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            16.653514,50.728578,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RCKiK Wałbrzych Ekipowy Pobór Krwi Kłodzko</name>
+        <description><![CDATA[Kłodzko<br>ul. Szpitalna 1 <br>NZOZ<br>07:30 – 11:30<br>Terminy wg. kalendarza na stronie: RCKiK Wałbrzych (http://www.rckik.walbrzych.pl/site/index.php/ekipy-wyjazdowe)]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            16.659565,50.455468,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Regionalne Centrum Krwiodawstwa i Krwiolecznictwa Wrocław</name>
+        <description><![CDATA[ul. Czerwonego Krzyża 5/9<br>50-345 Wrocław<br>Krew można oddać od  poniedziałku do piątku od 7.15 do 17.30  lub w soboty od 7.30 do 12.00<br>http://www.rckik.wroclaw.pl/]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            17.064965,51.116118,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RCKiK Wrocław OT Głogów</name>
+        <description><![CDATA[T.O. GŁOGÓW<br>ul. Kościuszki 15   67-200 Głogów<br>tel. 76 831 49 23<br>http://glogow.rckik.com.pl<br>pon.: 7.00-16:30<br>wt. - czw.: 7.00-11:00<br>pt 7.00-15.30                              http://www.rckik.wroclaw.pl/]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            16.076903,51.655532,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RCKiK Wrocław OT Legnica</name>
+        <description><![CDATA[T.O. LEGNICA<br>Wojewódzki Szpital Specjalistyczny<br>ul. Iwaszkiewicza 5  59-220 Legnica<br>tel. 76 721 16 88                                             Poniedziałek     7.00     16.00<br>Wtorek      7.00     12.30<br>Środa     7.00     17.00<br>Czwartek      7.00     11.30<br>Piątek      7.00     11.30<br>http://legnica.rckik.com.pl<br>http://www.rckik.wroclaw.pl/]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            16.217043,51.208644,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RCKiK Wrocław OT Lubin</name>
+        <description><![CDATA[T.O. LUBIN<br>ul. Bema 5 59-300 Lubin<br>tel. 76 746 88 70                                           Poniedziałek  - Czwartek   7.30     10.45<br>Piątek      7.30     16.30<br>http://lubin.rckik.com.pl<br>http://www.rckik.wroclaw.pl/]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            16.197839,51.400812,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Regionalne Centrum Krwiodawstwa i Krwiolecznictwa Łódź</name>
+        <description><![CDATA[91-433 Łódź<br>ul. Franciszkańska 17/25<br>tel. Centrala +48 42 6161 400<br>pon., śr, pt.: 8:00-15:30<br>wt., czw.: 8:00-17:30<br>sobota: 8:00-13:30<br>http://www.krwiodawstwo.pl/]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            19.461036,51.782113,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RCKiK Łódź Ekipowy Pobór Krwi Bełchatów</name>
+        <description><![CDATA[Punkt Pobrań - Nr 19 w Bełchatowie<br>Przychodnia "BCM"<br>Pierwsze piętro, pok. nr 4.<br>97-400 BEŁCHATÓW<br>ul. EDWARDÓW 3A<br>TEL. 044 633 18 40<br>dni pracy     godziny<br>Poniedziałek     08:00-11:00<br>Wtorek     08:00-11:00<br>Środa     08:00-11:00<br>Czwartek     07:40-09:30<br>Piątek     07:40-10:00<br>http://www.krwiodawstwo.pl/]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            19.367437,51.357231,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RCKiK Łódź Ekipowy Pobór Krwi Kutno</name>
+        <description><![CDATA[RCKiK Punkt Pobrań w Kutnie<br>SAMODZIELNY PUBLICZNY ZOZ SZPITAL MIEJSKI im dr A. TROCZEWSKIEGO<br>99-300 KUTNO<br>ul. KOŚCIUSZKI 52<br>TEL. 024 254 85 29 <br>dni pracy     godziny<br>Poniedziałek     7:40-10:30<br>Wtorek     7:40-10:30<br>Środa     7:40-10:30<br>Czwartek     7:40-10:30<br>Piątek     7:40-10:30]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            19.372137,52.238471,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RCKiK Łódź Ekipowy Pobór Krwi Pabianice</name>
+        <description><![CDATA[Punkt Pobrań - Nr 11 w Pabianicach<br>SZPITAL MIEJSKI im. BIERNACKIEGO<br>95-200 PABIANICE<br>ul. JANA PAWŁA II 68<br>TEL. 042 214 94 01<br>dni pracy     godziny<br>Poniedziałek     8:00-11:30<br>Wtorek     8:00-11:30<br>Środa     8:00-11:30<br>Czwartek     8:00-09:00<br>Piątek     8:00-11:00]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            19.332676,51.654094,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RCKiK Łódź Ekipowy Pobór Krwi Piotrków Trybunalski</name>
+        <description><![CDATA[Punkt Pobrań - Nr 14 w Piotrkowie Trybunalskim<br>ul. Słowackiego 74<br>97-300 PIOTRKÓW TRYBUNALSKI<br>Telefon: 44 647 30 30<br>dni pracy     godziny<br>Poniedziałek     8:00-11:00<br>Wtorek     8:00-11:00<br>Środa     8:00-10:30<br>Czwartek     8:00-10:30<br>Piątek     8:00-11:00]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            19.677393,51.409379,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RCKiK Łódź Ekipowy Pobór Krwi Radomsko</name>
+        <description><![CDATA[Punkt Pobrań  - Nr 16 w Radomsku<br>SZPITAL POWIATOWY<br>97-500 RADOMSKO<br>ul. JAGIELLOŃSKA 36<br>TEL. 669-007-066, 44 685-47-57<br>Bogusława Staszczyk<br>dni pracy     godziny<br>Poniedziałek     7:30-10:00<br>Wtorek     7:30-10:00<br>Środa     7:30-09:30<br>Czwartek     7:30-09:30<br>Piątek     7:30-10:00]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            19.454985,51.056758,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RCKiK Łódź Ekipowy Pobór Krwi Sieradz</name>
+        <description><![CDATA[Punkt Pobrań - Nr 20 w Sieradzu<br>WOJEWÓDZKI SZPITAL ZESPOLONY<br>98-200 SIERADZ<br>ul. ARMII KRAJOWEJ 7<br>TEL. 043  822 25 79 <br>dni pracy     godziny<br>Wtorek     8:00-10:30<br>Czwartek     8:00-10:30<br> http://www.krwiodawstwo.pl]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            18.710082,51.58207,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RCKiK Łódź Ekipowy Pobór Krwi Skierniewice</name>
+        <description><![CDATA[Punkt Pobrań w Skierniewicach<br>ul. Nowobielańska 61 - Osiedle "Widok" (przy Urzędzie Skarbowym)<br>96-100 SKIERNIEWICE<br>Tel.: 665 084 100, 46 832 53 72<br>Środa     8:30-11:30<br>Piątek     8:30-11:30<br>http://www.krwiodawstwo.pl]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            20.154161,51.978061,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RCKiK Łódź Ekipowy Pobór Krwi Tomaszów Mazowiecki</name>
+        <description><![CDATA[Punkt Pobrań - Nr 17 w Tomaszowie Mazowieckim<br>SZPITAL REJONOWY<br>97-200 TOMASZÓW MAZOWIECKI<br>ul. JANA PAWŁA II 35<br>TEL. 044 724 08 07<br>dni pracy     godziny<br>Wtorek     8:00-10:30<br>Środa     8:00-10:30<br>Czwartek     8:00-11:00<br>Piątek     8:00-10:30<br>http://www.krwiodawstwo.pl]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            20.00546,51.526688,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RCKiK Łódź Ekipowy Pobór Krwi Wieluń</name>
+        <description><![CDATA[Punkt Pobrań - Nr 22 w Wieluniu<br>SAMODZIELNY PUBLICZNY ZOZ<br>98-300 WIELUŃ<br>ul. SIERADZKA 56<br>TEL. 043 842 79 49, 665 856 500 <br>dni pracy     godziny<br>Poniedziałek     7:30-09:30<br>Wtorek     7:30-09:30<br>Środa     7:30-09:30<br>Piątek 7:30-9:30 oprócz pierwszego piątku miesiąca  http://www.krwiodawstwo.pl]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            18.56256,51.2282,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RCKiK Łódź Ekipowy Pobór Krwi Zduńska Wola</name>
+        <description><![CDATA[RCKiK Punkt Pobrań w Zduńskiej Woli<br>SAMODZIELNY PUBLICZNY ZOZ<br>98-220 ZDUŃSKA WOLA<br>ul. KRÓLEWSKA 29<br>TEL. 043 824 41 23<br>dni pracy     godziny<br>Poniedziałek     8:00-10:30<br>Środa     8:00-10:30<br>Piątek     8:00-11:00<br>http://www.krwiodawstwo.pl]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            18.941588,51.604532,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Centrum Krwiodawstwa i Krwiolecznictwa Ministerstwa Spraw Wewnętrznych</name>
+        <description><![CDATA[CKiK MSW<br>02-507 Warszawa<br>ul. Wołoska 137<br>e-mail: info@ckikmsw.pl<br>poniedziałek - piątek 7:30 – 13:00<br>http://ckikmsw.pl/]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            21.000066,52.199032,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Wojskowe Centrum Krwiodawstwa i Krwiolecznictwa Warszawa</name>
+        <description><![CDATA[00-671 Warszawa 1<br>ul. Koszykowa 78]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            21.00543,52.222949,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>WCKiK MON Terenowa Stacja Gdańsk</name>
+        <description><![CDATA[Terenowa Stacja w Gdańsku<br>80-305 Gdańsk<br>ul. Polanki 117<br>czynne od poniedziałku do piątku<br>w godzinach 7:30 - 15:05<br>rejestracja dawców 7:30 - 12:15                              058 552 65 10                                http://www.wckik.pl/gdan.php]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            18.5660362,54.3957508,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>WCKiK MON Terenowa Stacja  Warszawa</name>
+        <description><![CDATA[Warszawa<br>ul. Szaserów 128<br>czynne 7:30 - 15:05<br>rejestracja dawców 7:30 - 14:00<br>http://www.wckik.pl/wawa.php]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            21.088192,52.250164,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>WCKiK MON Terenowa Stacja Kraków</name>
+        <description><![CDATA[Terenowa Stacja w Krakowie<br>30-950 Kraków<br>ul. Wrocławska 1-3<br>czynne 7:30 - 15:05<br>rejestracja dawców 7:30 - 14:00 <br>http://www.wckik.pl/krak.php]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            19.934156,50.0751,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>WCKiK MON Terenowa Stacja  Bydgoszcz</name>
+        <description><![CDATA[Terenowa Stacja w Bydgoszczy<br>85-915 Bydgoszcz<br>ul. Powstańców Warszawy 5<br>czynne 7:30 - 15:05<br>rejestracja dawców 7:30 - 13:00<br>http://www.wckik.pl/bydg.php]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            18.015389,53.14251,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>WCKiK MON Terenowa Stacja Ełk</name>
+        <description><![CDATA[Terenowa Stacja w Ełku<br>19-300 Ełk<br>ul. Kościuszki 30<br>czynne 7:30 - 15:05<br>rejestracja dawców 7:30 - 12:00 <br>http://www.wckik.pl/elkk.php]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            22.364259,53.82015,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>WCKiK MON Terenowa Stacja Lublin</name>
+        <description><![CDATA[Terenowa Stacja w Lublinie<br>20-034 Lublin 11<br>Al. Racławickie 23<br>czynne 7:30 - 15:05<br>rejestracja dawców 8:00 - 13:00<br>http://www.wckik.pl/lubl.php]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            22.53386,51.251279,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>WCKiK MON Terenowa Stacja Szczecin</name>
+        <description><![CDATA[Terenowa Stacja w Szczecinie<br>71-507 Szczecin<br>ul. Piotra Skargi 9-11<br>czynne 7:30 - 15:05<br>rejestracja dawców 7:30 - 13:00<br>http://www.wckik.pl/szcz.php]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            14.541006,53.443235,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>WCKiK MON Terenowa Stacja Wrocław</name>
+        <description><![CDATA[Terenowa Stacja we Wrocławiu<br>53-115 Wrocław<br>ul. Rudolfa Weigla 5<br>czynne 7:30 - 15:05<br>rejestracja dawców 7:30 - 14:00<br>http://www.wckik.pl/wroc.php]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            17.019045,51.07445,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Regionalne Centrum Krwiodawstwa i Krwiolecznictwa Opole</name>
+        <description><![CDATA[ul. Kośnego 55<br>tel. centrala (077) 4410 600, 4410 700<br>pon. - pt.: 7.00 do 17.00<br>(rejestracja do 16.30)<br>sobota od 8.00 do 13.30 (wykaz pracujących sobót na stronie internetowej centrum)            http://www.rckik-opole.com.pl]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            17.937434,50.670463,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RCKiK Opole OT Brzeg</name>
+        <description><![CDATA[Oddział Terenowy w Brzegu<br>adres: 49-300 Brzeg, ul. Mossora 1<br>tel. (77) 4446573<br>POBIERANIE KRWI od poniedziaku do piątku<br>od godziny 7.00 do 13.00 (rejestracja do 12.30)<br>http://www.rckik-opole.com.pl/]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            17.478111,50.857421,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RCKiK Opole OT Kędzierzyn-Koźle</name>
+        <description><![CDATA[Oddział Terenowy w Kędzierzynie-Koźlu<br>47-220 Kędzierzyn-Koźle ul. Koszykowa 5B<br>tel. (77) 4849694<br>POBIERANIE KRWI od poniedziałku do piątku<br>w godzinach od 7.00 do 11.30 (rejestracja do 11.00)<br>http://www.rckik-opole.com.pl/]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            18.199646,50.342188,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RCKiK Opole OT Kluczbork</name>
+        <description><![CDATA[Oddział Terenowy w Kluczborku<br>adres: 46-200 Kluczbork, ul. Katowicka 26<br>tel. (77) 4471515<br>POBIERANIE KRWI od poniedziałku do piątku<br>od godziny 7.00 do 11.30 (rejestracja do 11.00)<br>http://www.rckik-opole.com.pl/]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            18.230567,50.975048,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RCKiK Opole OT Nysa</name>
+        <description><![CDATA[Oddział Terenowy w Nysie<br>adres: 48-300 Nysa, ul. Piłsudskiego 47<br>tel. (77) 4332443<br>POBIERANIE KRWI od poniedziałku do piątku<br>od godziny 7.00 do 13.00 (rejestracja do 12.30)<br>http://www.rckik-opole.com.pl/]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            17.351274,50.458911,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Regionalne Centrum Krwiodawstwa i Krwiolecznictwa Kielce</name>
+        <description><![CDATA[Kielce 25-734<br>ul. Jagiellońska 66<br>centrala: (0-41) 33-59-400<br>Tel/Fax: (0-41) 34-52-113<br>    poniedziałek - 700 do 1400<br>    wtorek - 700 do 1400<br>    środa - 700 do 1630<br>    czwartek - 700 do 1400<br>    piątek - 700 do 1600<br>http://www.rckik-kielce.com.pl/]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            20.605674,50.872982,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RCKiK Kielce OT Końskie</name>
+        <description><![CDATA[Końskie 26-200<br>Zespół Opieki Zdrowotnej<br>ul. Gimnazjalna 41b<br>tel./fax (0 41) 390-23-43<br>pon. - pt.: 8:00 - 11:00<br>http://www.rckik-kielce.com.pl/]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            20.391891,51.190748,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RCKiK Kielce OT Ostrowiec Świętokrzyski</name>
+        <description><![CDATA[Ostrowiec Świętokrzyski 27-400<br>Zespół Opieki Zdrowotnej<br>ul. Szymanowskiego 11<br>tel./fax (0 41) 266-60-37<br>pon. - pt.: 7:00 - 10:30<br>http://www.rckik-kielce.com.pl/]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            21.3621,50.95252,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RCKiK Kielce OT Sandomierz</name>
+        <description><![CDATA[Sandomierz 27-600<br>Samodzielny Publiczny Zespół Zakładów Opieki Zdrowotnej<br>ul.Schinzla 13<br>tel./fax (0 15) 832-36-56<br>pon. - pt.: 7:30 - 11:30<br>http://www.rckik-kielce.com.pl/]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            21.751621,50.698252,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RCKiK Kielce OT Skarżysko-Kamienna</name>
+        <description><![CDATA[Skarżysko-Kamienna 26-110<br>Zespół Opieki Zdrowotnej<br>ul. Szpitalna 1<br>tel./fax (0 41) 252-45-21<br>pon.7:00 - 12:00<br>http://www.rckik-kielce.com.pl/]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            20.870419,51.126125,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RCKiK Kielce Ekipowy Pobór Krwi Busko-Zdrój</name>
+        <description><![CDATA[Busko-Zdrój 28-110<br>Zespół Opieki Zdrowotnej<br>ul. Bohaterów Warszawy 67<br>w każdy ostatni piątek miesiąca:<br>w godz. 9:00 - 12:30<br>http://www.rckik-kielce.com.pl/]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            20.7038,50.467612,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RCKiK Kielce Ekipowy Pobór Krwi Starachowice</name>
+        <description><![CDATA[Starachowice 27-200<br>Zakład Opieki Zdrowotnej<br>ul. Radomska 70<br>wtorki w godz. 9:00 - 12:30<br>http://www.rckik-kielce.com.pl/]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            21.070061,51.063906,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Regionalne Centrum Krwiodawstwa i Krwiolecznictwa Racibórz</name>
+        <description><![CDATA[47-400 Racibórz<br>ul. Sienkiewicza 3<br>tel. (0 32) 415 34 54<br>poniedziałek – piątek: 7.30 – 15.00<br>rejestracja do: 14:00<br>http://www.rckik.pl/]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            18.219731,50.087231,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RCKiK Racibórz OT Rybnik</name>
+        <description><![CDATA[44-200 Rybnik<br>ul. Rudzka 15<br>tel. (0 32) 422 41 33<br>poniedziałek – piątek: 7.00 – 14.30<br>http://www.rckik.pl/]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            18.538957,50.100143,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RCKiK Racibórz OT Jastrzębie-Zdrój</name>
+        <description><![CDATA[44-335 Jastrzębie-Zdrój<br>ul. Jana Pawła II 7<br>tel. (0 32) 47 84 337<br>poniedziałek – piątek: 7.00 – 14.30]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            18.584189,49.947022,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RCKiK Racibórz OT Wodzisław Śląski</name>
+        <description><![CDATA[Wodzisław Śląski<br>ul. Radlińska 68<br>tel 32 746 74 71<br>poniedziałek - piątek: 7:00 - 14:30<br>http://www.rckik.pl/]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            18.460164,50.015502,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Regionalne Centrum Krwiodawstwa i Krwiolecznictwa Kraków</name>
+        <description><![CDATA[ul. Rzeźnicza 11<br>31-540 Kraków <br>Dział Dawców / Rejestracja dawców:<br>(012) 261 88 03, (012) 261 88 04<br>poniedziałek - piątek: 7:15-16:30<br>http://rckik.krakow.pl/]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            19.956558,50.056037,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RCKiK Kraków OT Bochnia</name>
+        <description><![CDATA[ul. Krakowska 31<br>32-700 Bochnia<br>(014) 612 52 71<br>poniedziałek-piątek: 7:00 - 12:00<br>http://rckik.krakow.pl/]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            20.420773,49.966294,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RCKiK Kraków OT Chrzanów</name>
+        <description><![CDATA[ul. Topolowa 16<br>32-500 Chrzanów<br>(032) 624 75 95<br>poniedziałek-piątek: 7:15 - 10:00<br>http://rckik.krakow.pl/]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            19.428613,50.136714,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RCKiK Kraków OT Gorlice</name>
+        <description><![CDATA[ul. Węgierska 21<br>38-300 Gorlice<br>(018) 352 68 16<br>poniedziałek-piątek: 07:00 - 12:00<br>http://rckik.krakow.pl/]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            21.162608,49.650626,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RCKiK Kraków OT Kraków</name>
+        <description><![CDATA[Wielicka<br>ul. Wielicka 265<br>30-663 Kraków<br>(012) 657 14 99<br>poniedziałek-piątek: 7:30 - 13:00<br>http://rckik.krakow.pl/]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            20.001276,50.011738,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RCKiK Kraków OT Kraków</name>
+        <description><![CDATA[Nowa Huta<br>os. Na Skarpie 66a<br>31-913 Kraków<br>(012) 425 92 14<br>poniedziałek-piątek: 7:30 - 13:00<br>http://rckik.krakow.pl/]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            20.046165,50.065335,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RCKiK Kraków OT Limanowa</name>
+        <description><![CDATA[ul. Piłsudskiego 61<br>34-600 Limanowa<br>(018) 337 10 43<br>poniedziałek-piątek: 8:00 - 13:00<br>http://rckik.krakow.pl/]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            20.419786,49.7137,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RCKiK Kraków OT Myślenice</name>
+        <description><![CDATA[ul. Szpitalna 2<br>32-400 Myślenice<br>(012) 273 02 20<br>poniedziałek-piątek: 7:30 - 13:00<br>http://rckik.krakow.pl/]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            19.946795,49.828875,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RCKiK KKraków OT Nowy Sącz</name>
+        <description><![CDATA[ul. Kazimierza Wielkiego 9a<br>33-300 Nowy Sącz<br>(018) 442 05 07<br>poniedziałek-piątek: 7:00 do 12:00<br>http://rckik.krakow.pl/]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            20.689595,49.626475,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RCKiK Kraków OT Nowy Targ</name>
+        <description><![CDATA[ul. Szpitalna 12<br>34-400 Nowy Targ<br>(018) 266 45 27<br>poniedziałek-piątek: 7:00 - 12:00<br>http://rckik.krakow.pl/]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            20.031402,49.487782,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RCKiK Kraków OT Oświęcim</name>
+        <description><![CDATA[ul. Wysokie Brzegi 4<br>32-600 Oświęcim<br>(033) 842 71 30<br>poniedziałek-piątek: 7:00 - 12:00<br>http://rckik.krakow.pl/]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            19.236438,50.040687,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RCKiK Kraków OT Sucha Beskidzka</name>
+        <description><![CDATA[ul. Szpitalna 22<br>34-200 Sucha Beskidzka<br>(033) 872 32 99<br>poniedziałek-piątek: 8:00 - 11:30<br>http://rckik.krakow.pl/]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            19.604759,49.736477,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RCKiK Kraków OT Tarnów</name>
+        <description><![CDATA[Szpitalna<br>ul. Szpitalna 13<br>33-100 Tarnów<br>(014) 622 13 38<br>poniedziałek-piątek: 7:00 do 11:30<br>http://rckik.krakow.pl/]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            20.995109,50.016826,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RCKiK Kraków OT Tarnów</name>
+        <description><![CDATA[Lwowska<br>ul. Lwowska 178a<br>33-100 Tarnów<br>(014) 631 51 55<br>poniedziałek-piątek: 7:15 - 11:30<br>http://rckik.krakow.pl/]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            21.033432,50.012841,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RCKiK Kraków OT Wadowice</name>
+        <description><![CDATA[ul. Karmelicka 5<br>34-100 Wadowice<br>(033) 873 29 56<br>poniedziałek-piątek: 7:30 - 11:30<br>http://rckik.krakow.pl/]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            19.491806,49.880533,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RCKiK Kraków OT Zakopane</name>
+        <description><![CDATA[ul. Szymony 14 (budynek Urzędu Skarbowego)	<br>34-500 Zakopane<br>(018) 201 27 27<br>poniedziałek-piątek: 7:30 - 12:00<br>http://rckik.krakow.pl/]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            19.963617,49.30565,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Regionalne Centrum Krwiodawstwa i Krwiolecznictwa Rzeszów</name>
+        <description><![CDATA[35-310 Rzeszów<br>ul. Wierzbowa 14<br>tel.(017) 867 20 30     <br>fax. (017) 867 20 37<br>pn, wt, czw, pt od 7.00 do 13.30                             śr od 7.00 do 17.00<br>Godziny pracy od 7.00 do 14.35 <br>http://www.rckk.rzeszow.pl/]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            22.015336,50.03341,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RCKiK Rzeszów OT Dębica</name>
+        <description><![CDATA[39-200 Dębica<br>ul. Krakowska 91<br>tel. (0-14) 670-07-81<br>7:00-11:00                                http://www.rckk.rzeszow.pl/]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            21.395359,50.036966,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RCKiK Rzeszów OT Jasło</name>
+        <description><![CDATA[38-200 Jasło<br>ul. Lwowska 22<br>tel. (0-13) 445-84-68<br>poniedziałku-piątku: 7.00 -11.30<br>http://www.rckk.rzeszow.pl/]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            21.48001,49.75166,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RCKiK Rzeszów OT Krosno</name>
+        <description><![CDATA[38-400 Krosno<br>ul. Korczyńska 57<br>tel. (0-13) 420-10-50<br>poniedziałku-piątku: 7.00 -12.00<br>http://www.rckk.rzeszow.pl/]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            21.782541,49.701627,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RCKiK Rzeszów OT Leżajsk</name>
+        <description><![CDATA[37-300 Leżajsk<br>ul. Leśna 22<br>tel. (0-17) 242-03-07<br>poniedziałku-piątku: 7.00 -10.30<br>http://www.rckk.rzeszow.pl/]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            22.401145,50.271802,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RCKiK Rzeszów OT Mielec</name>
+        <description><![CDATA[39-300 Mielec<br>ul. Żeromskiego 17<br>tel. (0-17) 583-69-52<br>poniedziałku-piątku: 7.00 -11.30<br>http://www.rckk.rzeszow.pl/]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            21.437266,50.289929,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RCKiK Rzeszów OT Przemyśl</name>
+        <description><![CDATA[37-700 Przemyśl<br>ul. Monte Cassino 18<br>tel. (0-16) 670-36-56<br>poniedziałku do piątku: 7.00 -12.00<br>http://www.rckk.rzeszow.pl/]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            22.784228,49.805616,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RCKiK Rzeszów OT Sanok</name>
+        <description><![CDATA[38-500 Sanok<br>ul. Konarskiego 24<br>tel. (0-13) 464-33-53<br>poniedziałku-piątku: 7.00 -11.30<br>http://www.rckk.rzeszow.pl/]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            22.202339,49.55147,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RCKiK Rzeszów OT Stalowa Wola</name>
+        <description><![CDATA[37-450 Stalowa Wola<br>ul. Staszica 4<br>tel. (0-15) 842-14-55<br>poniedziałku-piątku: 7.00 -12.30<br>http://www.rckk.rzeszow.pl/]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            22.068937,50.563259,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RCKiK Rzeszów OT Tarnobrzeg</name>
+        <description><![CDATA[Przychodnia Specjalistyczna (I piętro)<br>ul. 1 Maja 1<br>39-400 Tarnobrzeg<br>pierwszy i ostatni piątek miesiąca 9:00-12:00]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            21.665704,50.571613,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Regionalne Centrum Krwiodawstwa i Krwiolecznictwa Katowice</name>
+        <description><![CDATA[ul. Raciborska 15<br>40-074 Katowice<br>tel. 32 20 87 300<br>poniedziałku-piątku: 7:00 - 15:00                                w czwartki przedłużone godziny przyjęć dawców<br>do godz. 18:00<br>w każdą sobotę zapraszamy<br>w godz. 8:00 - 13:00<br>http://www.rckik-katowice.pl/]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            19.007206,50.254765,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RCKiK Katowice OT Bielsko-Biała</name>
+        <description><![CDATA[ul. Wyspiańskiego 21<br>tel. (33) 812 21 90 , (33) 822 18 39<br>rejestracja dawców 7.00 - 14.00<br>w każdą pierwszą środę miesiąca rejestracja dawców do godz. 16.30<br>http://www.rckik-katowice.pl/]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            19.035401,49.823103,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RCKiK Katowice OT Bytom</name>
+        <description><![CDATA[przy Szpitalu Specjalistycznym Nr 1<br>ul. Żeromskiego 7<br>tel. (32) 281 95 08<br>rejestracja dawców poniedziałek, wtorek, środa, piątek 7.00 - 12:30 czwartek 7:00 - 11:30<br>http://www.rckik-katowice.pl/]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            18.922963,50.352402,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RCKiK Katowice OT Cieszyn</name>
+        <description><![CDATA[przy Szpitalu Śląskim<br>ul. Bielska 4<br>tel. (33) 851 43 63<br>rejestracja dawców 7.00 - 10.00<br>http://www.rckik-katowice.pl/]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            18.639314,49.746585,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RCKiK Katowice OT Częstochowa</name>
+        <description><![CDATA[przy szpitalu specjalistycznym im. Najświętszej Maryi Panny (PARKITKA)<br>ul. Bialska 104/118<br>tel. (34) 360 57 92 , (34) 360 58 90<br>rejestracja dawców 7.00 - 14.00<br>http://www.rckik-katowice.pl/]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            19.088724,50.829442,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RCKiK Katowice OT Dąbrowa Górnicza</name>
+        <description><![CDATA[przy Szpitalu Specjalistycznym im. Sz. Starkiewicza<br>ul. Szpitalna 13<br>tel. (32) 261 44 64<br>rejestracja dawców 7.00 - 12.30<br>http://www.rckik-katowice.pl/]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            19.176421,50.320409,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RCKiK Katowice OT Gliwice</name>
+        <description><![CDATA[przy Instytucie Onkologii im. M.Skłodowskiej-Curie<br>ul. Wybrzeże Armii Krajowej 15<br>tel. (32) 278 98 38<br>rejestracja dawców 7.00 - 12.30                 <br>(z wyjątkiem I oraz III poniedziałku miesiąca: OT Gliwice czynny będzie w godz. 7.00 - 10.30.<br>W tych dniach dawców zapraszamy na akcję ambulansu na Placu Krakowskim w Gliwicach w godz. 12.00-17.00)<br>http://www.rckik-katowice.pl/]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            18.66487,50.302142,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RCKiK Katowice OT Pszczyna</name>
+        <description><![CDATA[ul. Biskupa Bednorza 10-12<br>tel. (32) 212 80 44<br>rejestracja dawców 7.00 - 12.00 http://www.rckik-katowice.pl/]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            18.945773,49.970542,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RCKiK Katowice OT Sosnowiec</name>
+        <description><![CDATA[przy Szpitalu Miejskim Nr 1 <br>ul. Zegadłowicza 3<br>tel. (32) 297 99 57, (32) 290 50 35<br>rejestracja dawców 7.00 - 12.30 http://www.rckik-katowice.pl/]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            19.131768,50.270622,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RCKiK Katowice OT Tarnowskie Góry</name>
+        <description><![CDATA[przy Wielospecjalistycznym Szpitalu Powiatowym<br>ul. Pyskowicka 47 do 51<br>tel. (32) 382 39 40<br>rejestracja dawców 7.00 - 12.30 http://www.rckik-katowice.pl/]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            18.806362,50.43914,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RCKiK Katowice OT Zabrze</name>
+        <description><![CDATA[przy Szpitalu Klinicznym nr 1 im. Prof. Stanisława Szyszko<br>ul. 3-go Maja 13/15<br>tel. (32) 273 63 31, (32) 37 04 552<br>rejestracja dawców 7.00 - 12.30 http://www.rckik-katowice.pl/]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            18.785655,50.301813,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RCKiK Katowice Ekipowy Pobór Krwi Knurów</name>
+        <description>w Knurowie na terenie Przychodni Specjalistycznej Nr 4 ul. Dworcowa 1 w każdy poniedziałek i piątek - rejestracja dawców w godz. 7.30 - 11:00 http://www.rckik-katowice.pl/</description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            18.671651,50.222088,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RCKiK Katowice Ekipowy Pobór Krwi Zawiercie</name>
+        <description><![CDATA[w Zawierciu ul. Piłsudskiego 81 c (I piętro) w każdą środę oraz piątek - rejestracja dawców<br>w godz. 8:00 - 12:00 http://www.rckik-katowice.pl/]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            19.431574,50.491139,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RCKiK Katowice Ekipowy Pobór Krwi Żywiec</name>
+        <description><![CDATA[w Żywcu przy ul. Piłsudskiego 50 (II piętro budynku Przychodni, koło Policji) w każdą środę oraz piątek- rejestracja dawców w godz. 7.30 - 12.00<br>W każdą pierwszą środę miesiąca Punkt Poboru czynny w godz. 7.30 - 16.00 http://www.rckik-katowice.pl/]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            19.207149,49.686192,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Zniżki w komunikacji miejskiej</name>
+    </Folder>
+    <Folder>
+      <name>Ulgi w komunikacji</name>
+    </Folder>
+  </Document>
+</kml>

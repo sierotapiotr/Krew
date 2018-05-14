@@ -1,0 +1,65 @@
+<resources>
+    <string name="app_name">Krew</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="title_activity_main2">Inbox</string>
+    <string name="title_activity_stats">Stats</string>
+    <string name="title_activity_list">list</string>
+    <string name="title_activity_data">Data</string>
+    <string name="title_activity_my_data">MyData</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="user_email"></string>
+    <string-array name="miasta">
+        <item>Białystok</item>
+        <item>Bydgoszcz</item>
+        <item>Gdańsk</item>
+        <item>Kalisz</item>
+        <item>Katowice</item>
+        <item>Kielce</item>
+        <item>Kraków</item>
+        <item>Lublin</item>
+        <item>ĹĂłdĹş</item>
+        <item>Olsztyn</item>
+        <item>Opole</item>
+        <item>Poznań</item>
+        <item>Racibórz</item>
+        <item>Radom</item>
+        <item>Rzeszów</item>
+        <item>Słupsk</item>
+        <item>Szczecin</item>
+        <item>Wałbrzych</item>
+        <item>Warszawa</item>
+        <item>Wrocław</item>
+        <item>Zielona Góra</item>
+    </string-array>
+    <string name="title_activity_inbox">InboxActivity</string>
+    <string name="addXml1">Data poboru krwi.(DD MM RRRR)</string>
+    <string name="addXml2">Ilość oddanej krwi. </string>
+    <string name="addXml3">Nie udało się wczytać danych.</string>
+    <string name="statsXml1">Ilość krwi brakująca do odznaczenia Honorowego Dawcy Krwi - Zasłużonego dla Zdrowia Narodu: </string>
+    <string name="statsXml2">Ilość krwi brakująca do odznaki Zasłużonego Honorowego Dawcy Krwi: </string>
+    <string name="statsXml3">Następne możliwe oddanie krwi za: </string>
+    <string name="statsXml4">Ilość oddanej krwi:</string>
+    <string name="myDataXml1">Imię</string>
+    <string name="myDataXml2">Nazwisko</string>
+    <string name="statsXml5">Wybierz najbliższe miasto</string>
+    <string name="statsXml6">Grupa krwi</string>
+    <string name="statsXml7">Zapisz dane</string>
+    <string name="contentMainXml1">Pokaż token urządzenia</string>
+    <string name="contentMainXml2">Pobierz lokalizację</string>
+    <string name="contentMainXml3">Lista punktów krwiodawstwa</string>
+    <string name="contentMainXml4">Skrzynka powiadomień</string>
+    <string name="registerString1">Wpisz swój email</string>
+    <string name="registerString2">Wpisz swoje hasło</string>
+    <string name="registerString3">Wpisz swoje imię</string>
+    <string name="registerString4">Wybierz nabliższe miasto</string>
+    <string name="registerString6">Mężczyzna</string>
+    <string name="registerString7">Wybierz grupę krwi</string>
+    <string name="registerString8">Zarejestruj się</string>
+    <string name="loginString1">Wpisz swój email</string>
+    <string name="registerString29">Wpisz swoje hasło</string>
+    <string name="registerString5">Nie posiadasz konta? Zarejestruj się.</string>
+    <string name="registerString9">Wybierz grupę krwi</string>
+    <string name="registerString10">Posiadasz już konto? Zaloguj się.</string>
+    <string name="stats1">Liczba poborów krwi: </string>
+</resources>
